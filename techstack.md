@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ammaralnajim/request](https://github.com/ammaralnajim/request)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|34<br/>Tools used|12/20/23 <br/>Report generated|
+|35<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -156,9 +156,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -182,6 +182,7 @@ Full tech stack [here](/techstack.md)
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|08/10/18|Mikeal Rogers |MIT|N/A|
 |[server-destroy](https://www.npmjs.com/server-destroy)|v1.0.1|10/09/15|simov |ISC|N/A|
 |[standard](https://www.npmjs.com/standard)|v9.0.0|03/17/17|Ahmad Nassri |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.6.0|05/29/19|Andres Rojas |MIT|N/A|
 |[tough-cookie](https://www.npmjs.com/tough-cookie)|v2.5.0|12/23/18|grabus |BSD-3-Clause|[CVE-2023-26136](https://github.com/advisories/GHSA-72xf-g2v4-qvf3) (Moderate)|
 |[uuid](https://www.npmjs.com/uuid)|v3.3.2|08/05/18|OJ Kwon |MIT|N/A|
 
